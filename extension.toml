@@ -1,0 +1,7 @@
+[extension]
+id = "hex_viewer"
+name = "Hex Viewer"
+version = "0.1.0"
+description = "Hex Viewer extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
